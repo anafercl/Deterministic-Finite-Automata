@@ -1,7 +1,10 @@
 # Deterministic Finite Automata
 DFA for identifying and highlighting the syntax of the C++ programming language using functional programming and regular expressions in Racket, and HTML with CSS to show the result on a webpage.
 
+The program abides by the following lexical system:
 
+![table](LexicalSystem1.png)
+![table](LexicalSystem2.png)
 
 ## Instructions for use:
 1. Write the following text on the terminal, writing between quotations the name of the test file to be used: (resaltadorSintaxis "prueba1.cpp").

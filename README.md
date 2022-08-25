@@ -1,4 +1,11 @@
 # Deterministic Finite Automata
+
+Developed by: Ana Fernanda Chacón Lomelí, Alexa Arreola Alvarado, Ricardo González Garza
+
+April 2022
+
+
+
 DFA for identifying and highlighting the syntax of the C++ programming language using functional programming and regular expressions in Racket, and HTML with CSS to show the result on a webpage.
 
 The program abides by the following lexical system:
